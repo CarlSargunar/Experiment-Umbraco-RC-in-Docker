@@ -11,3 +11,4 @@ To build the Docker image open a command prompt in the folder where you have dow
 To run the Docker image, run the following command:
 
     docker run -p 8080:80 umbraco11rc
+
